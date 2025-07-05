@@ -13,7 +13,7 @@
       Your answer...
 
 Good Data Visualization
-Visualization: County Median Home Prices in the United States (Q1 2022)
+Visualization: [County Median Home Prices in the United States (Q1 2022)](https://public.tableau.com/app/profile/adedamola8122/viz/MedianHomePriceQ12022/AlternativeMapProjection-County)
 Evaluation
 This Tableau visualization of U.S. county-level median home prices is a strong example of effective data visualization. It performs well across three key dimensions:
 •	Perceptual: The map’s central message—geographic variation in home prices—is conveyed clearly and quickly. Users can immediately see patterns (e.g., coastal areas tend to have higher prices).
@@ -25,7 +25,7 @@ In terms of cognitive load, the visualization manages to reduce both extraneous 
 
 
 Bad Data Visualization
-Visualization: Chicago Median Household Income Map (2009)
+Visualization: [Chicago Median Household Income Map (2009)](https://www.flickr.com/photos/mikehagan/3347337850/in/faves-densitydesign/)
 Evaluation
 While visually striking, this map of Chicago’s median household income levels is a problematic visualization when evaluated against established principles:
 •	Perceptual: The viewer struggles to immediately understand the key message. The use of a non-standard map projection (with a rotated orientation) increases the extraneous cognitive load, making geographic interpretation more difficult than necessary. Most viewers expect north to be up; violating that norm adds unnecessary complexity.
