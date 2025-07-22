@@ -12,10 +12,30 @@
       ```
       Your answer...
 
+Good Data Visualization
+Visualization: [County Median Home Prices in the United States (Q1 2022)](https://public.tableau.com/app/profile/adedamola8122/viz/MedianHomePriceQ12022/AlternativeMapProjection-County)
+Evaluation
+This Tableau visualization of U.S. county-level median home prices is a strong example of effective data visualization. It performs well across three key dimensions:
+•	Perceptual: The map’s central message—geographic variation in home prices—is conveyed clearly and quickly. Users can immediately see patterns (e.g., coastal areas tend to have higher prices).
+•	Aesthetic: The visual is clean and uncluttered. The color palette is  appropriately toned to indicate intensity (higher prices are darker). The interactive feature that allows users to hover over counties and retrieve precise values adds practical value without visual overload.
+•	Substantive: While the underlying dataset is not reproduced or downloadable, the data source is credited, and the visual does not appear to distort or mislead. It presents information in an emotionally restrained format—what might be described as a "blank page" approach.
+
+In terms of cognitive load, the visualization manages to reduce both extraneous and intrinsic load effectively. Viewers familiar with basic U.S. geography will have no trouble reading the map. Germane load is well supported by the map’s interactivity and minimalist design. The addition of brief explanatory comments enriches the viewer’s understanding without overwhelming.
 
 
 
-
+Bad Data Visualization
+Visualization: [Chicago Median Household Income Map (2009)](https://www.flickr.com/photos/mikehagan/3347337850/in/faves-densitydesign/)
+Evaluation
+While visually striking, this map of Chicago’s median household income levels is a problematic visualization when evaluated against established principles:
+•	Perceptual: The viewer struggles to immediately understand the key message. The use of a non-standard map projection (with a rotated orientation) increases the extraneous cognitive load, making geographic interpretation more difficult than necessary. Most viewers expect north to be up; violating that norm adds unnecessary complexity.
+•	Aesthetic: Though visually engaging, the aesthetic choices —such as using subtle shades of orange and red— make it difficult to distinguish between categories, especially for individuals with color vision deficiency. The map also overlays circles and connector lines for every sector, which clutters the display, duplicates the information and introduces visual noise without adding meaningful value. 
+•	Substantive: Although the source of the data is cited, it is not reproduced or downloadable. The visual does not appear to distort or mislead. It is deliberately emotionally neutral, a blank page.
+•	Cognitive Load:
+o	Extraneous load is increased by the map’s orientation, unclear right legend, poor choice of colors and overuse of labels.
+o	Intrinsic load is high for users unfamiliar with Chicago’s geography or income distribution.
+o	Germane load is underutilized; the design does not help readers build mental models or insights.
+Furthermore, the legend on the right lacks clarity. It is ambiguous whether the darker red represents “up to $10,000” or “$10,000 to $19,999.” This confusion persists until the user reads the legend on the left, which should not be necessary to interpret basic color coding.
 
 
       ```
@@ -23,10 +43,20 @@
       ```
       Your answer...
 
+Suggestions for Improvement for the Good Data Visualization
+
+- Add numerical value ranges directly to the color legend to reduce mental effort.
+- The color palette —primarily purples— could pose issues for some users. A more color-friendly scale could increase accessibility.
+- A methodological note on how the data was collected and processed could be added.
 
 
+Suggestions for Improvement for the Bad Data Visualization
 
-
+- Use a standard north-oriented map projection to aid geographic recognition.
+- Avoid redundant visual elements like sector lines and circles unless needed to add clarity. 
+- Redesign the right legend to clearly indicate numerical ranges and improve font size in the left legend for better readability.
+- Choose a more distinguishable and accessible color palette.
+- Add a methodological note on how the data was collected and processed.
 
       
       ```
